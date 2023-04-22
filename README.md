@@ -1,0 +1,1 @@
+ HackerCat is a mod of Scratch that adds custom extensions and features to the Scratch editor and community. Some of the features include color swatches, dark mode, hex color picker, extra fonts, custom fonts, larger canvas bounds, round outlines, and more. HackerCat also allows users to run a hosted copy of Scratch on a server.
